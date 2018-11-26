@@ -1,0 +1,14 @@
+{
+  "name": "vidme-backend",
+  "version": "1.0.0",
+  "description": "Backend for Vidme app. Created with Express and MongoDb.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abel Acosta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
